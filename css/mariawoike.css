@@ -1,3 +1,28 @@
+#top, #bottom, #left, #right {
+  background: #454b57;
+  position: fixed;
+}
+#left, #right {
+  top: 0; bottom: 0;
+  width: 30px;
+  }
+  #left { left: 0; }
+  #right { right: 0; }
+#top, #bottom {
+  left: 0; right: 0;
+  height: 30px;
+  }
+  #top { top: 0; }
+  #bottom { bottom: 0;
+}
+
+.border {
+  border-image: linear-gradient(#fff, #000) 14% stretch;
+}
+.container {
+  margin-top: 30px;
+}
+
 .homepage-hero-module {
     border-right: none;
     border-left: none;
