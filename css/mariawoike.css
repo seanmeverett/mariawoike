@@ -11,6 +11,16 @@ body {
   box-shadow:
     inset #454b57 0 0 0 30px,
     inset #fff 0 0 0 40px;
+  font-family: 'Special Elite';
+  color: #454b57;
+}
+a {
+  color: #c47b46;
+  font-weight: bold;
+}
+a:hover {
+  color: #c47b46;
+  font-weight: bold;
 }
 .container {
   padding: 0;
