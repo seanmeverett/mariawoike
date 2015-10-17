@@ -22,6 +22,10 @@ a:hover {
   color: #c47b46;
   font-weight: bold;
 }
+h1 {
+  font-family: 'Permanent Marker';
+  font-size: 70px;
+}
 .container {
   padding: 0;
 }
