@@ -34,9 +34,15 @@ img.center {
   margin-left: auto;
   margin-right: auto;
 }
-.miabackground {
+.miabackgrounddesktop {
   background-image: url('../img/mia.jpg');
   background-repeat: no-repeat;
   max-width: 1200px;
+  height: 1200px;
+}
+.miabackgroundmobile {
+  background-image: url('../img/miamobile.jpg');
+  background-repeat: no-repeat;
+  max-width: 624px;
   height: 1200px;
 }
