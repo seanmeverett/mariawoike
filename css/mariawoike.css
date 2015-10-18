@@ -14,6 +14,9 @@ body {
   font-family: 'Special Elite';
   color: #454b57;
 }
+.container {
+  width: 970px !important;
+}
 a {
   color: #c47b46;
   font-weight: bold;
@@ -35,7 +38,7 @@ img.center {
   margin-right: auto;
 }
 .miabackground {
-  background-image: url('../img/mia.jpg');
+  background-image: url('../img/miamobile.jpg');
   background-repeat: no-repeat;
   max-width: 100%;
   height: 1200px;
