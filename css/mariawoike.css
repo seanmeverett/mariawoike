@@ -37,6 +37,6 @@ img.center {
 .miabackground {
   background-image: url('../img/mia.jpg');
   background-repeat: no-repeat;
-  max-width: 100%;
+  max-width: 1200px;
   height: 1200px;
 }
