@@ -37,12 +37,12 @@ img.center {
 .miabackgrounddesktop {
   background-image: url('../img/mia.jpg');
   background-repeat: no-repeat;
-  max-width: 1200px;
+  max-width: 100%;
   height: 1200px;
 }
 .miabackgroundmobile {
   background-image: url('../img/miamobile.jpg');
   background-repeat: no-repeat;
-  max-width: 624px;
+  max-width: 100%;
   height: 1200px;
 }
