@@ -27,7 +27,7 @@ h1 {
   font-size: 70px;
 }
 .container {
-  padding: 0;
+  padding: 15px;
 }
 img.center {
   display: block;
@@ -38,11 +38,11 @@ img.center {
   background-image: url('../img/mia.jpg');
   background-repeat: no-repeat;
   max-width: 100%;
-  height: 1200px;
-+}
+  height: 1100px;
+}
 .miabackgroundmobile {
   background-image: url('../img/miamobile.jpg');
   background-repeat: no-repeat;
   max-width: 100%;
-  height: 1200px;
- }
+  height: 1100px;
+}
